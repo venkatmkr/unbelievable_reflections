@@ -1,0 +1,11 @@
+{
+  "name": "unbelievable-reflections",
+  "version": "0.1.0",
+  "description": "Modular smart mirror: realtime posture analysis with yoga corrections, plus pluggable retail and health modules.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT"
+}
